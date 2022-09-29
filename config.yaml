@@ -1,0 +1,3 @@
+---
+vault_url:   http://vault:8200
+vault_token: zZz
